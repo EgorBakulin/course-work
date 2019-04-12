@@ -1,0 +1,118 @@
+Added Component: Designator=GB1(XS2holes)
+Add component. Clean all parameters for all variants
+Added Component: Designator=HB1(lcd-screen)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(R1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Published"; Value = "19.09.2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Published"; Value = "19.09.2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Published"; Value = "19.09.2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R4(SH-655MCL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Published"; Value = "27.07.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Подстроечный резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Published"; Value = "19.09.2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Published"; Value = "19.09.2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=U1(QFP44)
+Add component. Clean all parameters for all variants
+Added Component: Designator=XS3(XS8HOLES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=XS4(XS5HOLES)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetGB1_1 Pin=GB1-1
+Added Pin To Net: NetName=NetGB1_2 Pin=GB1-2
+Added Pin To Net: NetName=8 Pin=HB1-1
+Added Pin To Net: NetName=7 Pin=HB1-2
+Added Pin To Net: NetName=6 Pin=HB1-3
+Added Pin To Net: NetName=5 Pin=HB1-4
+Added Pin To Net: NetName=4 Pin=HB1-5
+Added Pin To Net: NetName=3 Pin=HB1-6
+Added Pin To Net: NetName=2 Pin=HB1-7
+Added Pin To Net: NetName=1 Pin=HB1-8
+Added Pin To Net: NetName=NetHB1_9 Pin=HB1-9
+Added Pin To Net: NetName=NetHB1_10 Pin=HB1-10
+Added Pin To Net: NetName=NetHB1_11 Pin=HB1-11
+Added Pin To Net: NetName=NetHB1_12 Pin=HB1-12
+Added Pin To Net: NetName=NetHB1_13 Pin=HB1-13
+Added Pin To Net: NetName=NetHB1_14 Pin=HB1-14
+Added Pin To Net: NetName=NetHB1_15 Pin=HB1-15
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetGB1_1 Pin=R1-2
+Added Pin To Net: NetName=NetGB1_1 Pin=R2-1
+Added Pin To Net: NetName=8 Pin=R2-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetGB1_1 Pin=R3-2
+Added Pin To Net: NetName=NetHB1_14 Pin=R4-1
+Added Pin To Net: NetName=NetHB1_12 Pin=R4-2
+Added Pin To Net: NetName=NetHB1_13 Pin=R4-3
+Added Pin To Net: NetName=NetHB1_15 Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetHB1_15 Pin=R6-1
+Added Pin To Net: NetName=NetGB1_2 Pin=R6-2
+Added Pin To Net: NetName=NetR3_1 Pin=U1-1
+Added Pin To Net: NetName=9 Pin=U1-2
+Added Pin To Net: NetName=10 Pin=U1-3
+Added Pin To Net: NetName=11 Pin=U1-4
+Added Pin To Net: NetName=12 Pin=U1-5
+Added Pin To Net: NetName=13 Pin=U1-6
+Added Pin To Net: NetName=NetGB1_2 Pin=U1-8
+Added Pin To Net: NetName=NetR1_1 Pin=U1-9
+Added Pin To Net: NetName=NetHB1_9 Pin=U1-11
+Added Pin To Net: NetName=NetHB1_10 Pin=U1-12
+Added Pin To Net: NetName=NetHB1_11 Pin=U1-13
+Added Pin To Net: NetName=NetHB1_13 Pin=U1-14
+Added Pin To Net: NetName=NetHB1_14 Pin=U1-15
+Added Pin To Net: NetName=NetR5_2 Pin=U1-16
+Added Pin To Net: NetName=NetGB1_2 Pin=U1-19
+Added Pin To Net: NetName=NetGB1_1 Pin=U1-20
+Added Pin To Net: NetName=1 Pin=U1-21
+Added Pin To Net: NetName=2 Pin=U1-22
+Added Pin To Net: NetName=3 Pin=U1-23
+Added Pin To Net: NetName=4 Pin=U1-24
+Added Pin To Net: NetName=5 Pin=U1-25
+Added Pin To Net: NetName=6 Pin=U1-26
+Added Pin To Net: NetName=7 Pin=U1-27
+Added Pin To Net: NetName=8 Pin=U1-28
+Added Pin To Net: NetName=1 Pin=XS3-1
+Added Pin To Net: NetName=2 Pin=XS3-2
+Added Pin To Net: NetName=3 Pin=XS3-3
+Added Pin To Net: NetName=4 Pin=XS3-4
+Added Pin To Net: NetName=5 Pin=XS3-5
+Added Pin To Net: NetName=6 Pin=XS3-6
+Added Pin To Net: NetName=7 Pin=XS3-7
+Added Pin To Net: NetName=8 Pin=XS3-8
+Added Pin To Net: NetName=9 Pin=XS4-1
+Added Pin To Net: NetName=10 Pin=XS4-2
+Added Pin To Net: NetName=11 Pin=XS4-3
+Added Pin To Net: NetName=12 Pin=XS4-4
+Added Pin To Net: NetName=13 Pin=XS4-5
+Added Member To Class: ClassName=Schematic Member=Component GB1 4.5v
+Added Member To Class: ClassName=Schematic Member=Component HB1 HY-1602B3
+Added Member To Class: ClassName=Schematic Member=Component R1 3.3K
+Added Member To Class: ClassName=Schematic Member=Component R2 5.1K
+Added Member To Class: ClassName=Schematic Member=Component R3 1K
+Added Member To Class: ClassName=Schematic Member=Component R4 22K
+Added Member To Class: ClassName=Schematic Member=Component R5 100
+Added Member To Class: ClassName=Schematic Member=Component R6 10K
+Added Member To Class: ClassName=Schematic Member=Component U1 PIC16F873
+Added Member To Class: ClassName=Schematic Member=Component XS3 PORT8
+Added Member To Class: ClassName=Schematic Member=Component XS4 PORT6
