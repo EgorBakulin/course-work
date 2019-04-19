@@ -1,0 +1,196 @@
+Added Component: Designator=GB1(XS2holes)
+Added Component: Designator=HB1(lcd-screen)
+Added Component: Designator=R1(R1206)
+Added Component: Designator=R2(R1206)
+Added Component: Designator=R3(R1206)
+Added Component: Designator=R4(SH-655MCL)
+Added Component: Designator=R5(R1206)
+Added Component: Designator=R6(R1206)
+Added Component: Designator=SB1(GateronMXswitch)
+Added Component: Designator=SB2(GateronMXswitch)
+Added Component: Designator=SB3(GateronMXswitch)
+Added Component: Designator=SB4(GateronMXswitch)
+Added Component: Designator=SB5(GateronMXswitch)
+Added Component: Designator=SB6(GateronMXswitch)
+Added Component: Designator=SB7(GateronMXswitch)
+Added Component: Designator=SB8(GateronMXswitch)
+Added Component: Designator=SB9(GateronMXswitch)
+Added Component: Designator=SB10(GateronMXswitch)
+Added Component: Designator=SB11(GateronMXswitch)
+Added Component: Designator=SB12(GateronMXswitch)
+Added Component: Designator=SB13(GateronMXswitch)
+Added Component: Designator=SB14(GateronMXswitch)
+Added Component: Designator=SB15(GateronMXswitch)
+Added Component: Designator=SB16(GateronMXswitch)
+Added Component: Designator=SB17(GateronMXswitch)
+Added Component: Designator=U1(QFP44)
+Added Component: Designator=VD1(DIODE)
+Added Component: Designator=VD2(DIODE)
+Added Component: Designator=VD3(DIODE)
+Added Component: Designator=VD4(DIODE)
+Added Component: Designator=VD5(DIODE)
+Added Component: Designator=VD6(DIODE)
+Added Component: Designator=XS1(XS8HOLES)
+Added Component: Designator=XS2(XS5HOLES)
+Added Component: Designator=XS3(XS8HOLES)
+Added Component: Designator=XS4(XS5HOLES)
+Added Pin To Net: NetName=NetGB1_1 Pin=GB1-1
+Added Pin To Net: NetName=NetGB1_2 Pin=GB1-2
+Added Pin To Net: NetName=8 Pin=HB1-1
+Added Pin To Net: NetName=7 Pin=HB1-2
+Added Pin To Net: NetName=6 Pin=HB1-3
+Added Pin To Net: NetName=5 Pin=HB1-4
+Added Pin To Net: NetName=4 Pin=HB1-5
+Added Pin To Net: NetName=3 Pin=HB1-6
+Added Pin To Net: NetName=2 Pin=HB1-7
+Added Pin To Net: NetName=1 Pin=HB1-8
+Added Pin To Net: NetName=NetHB1_9 Pin=HB1-9
+Added Pin To Net: NetName=NetHB1_10 Pin=HB1-10
+Added Pin To Net: NetName=NetHB1_11 Pin=HB1-11
+Added Pin To Net: NetName=NetHB1_12 Pin=HB1-12
+Added Pin To Net: NetName=NetHB1_13 Pin=HB1-13
+Added Pin To Net: NetName=NetHB1_14 Pin=HB1-14
+Added Pin To Net: NetName=NetHB1_15 Pin=HB1-15
+Added Pin To Net: NetName=NetGB1_2 Pin=HB1-16
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetGB1_1 Pin=R1-2
+Added Pin To Net: NetName=NetGB1_1 Pin=R2-1
+Added Pin To Net: NetName=8 Pin=R2-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetGB1_1 Pin=R3-2
+Added Pin To Net: NetName=NetHB1_14 Pin=R4-1
+Added Pin To Net: NetName=NetHB1_12 Pin=R4-2
+Added Pin To Net: NetName=NetHB1_13 Pin=R4-3
+Added Pin To Net: NetName=NetHB1_15 Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetHB1_15 Pin=R6-1
+Added Pin To Net: NetName=NetGB1_2 Pin=R6-2
+Added Pin To Net: NetName=NetSB1_1 Pin=SB1-1
+Added Pin To Net: NetName=NetSB1_2 Pin=SB1-2
+Added Pin To Net: NetName=NetSB2_1 Pin=SB2-1
+Added Pin To Net: NetName=NetSB1_1 Pin=SB2-2
+Added Pin To Net: NetName=NetSB1_1 Pin=SB3-2
+Added Pin To Net: NetName=NetSB2_1 Pin=SB4-1
+Added Pin To Net: NetName=NetSB4_2 Pin=SB4-2
+Added Pin To Net: NetName=NetSB1_1 Pin=SB5-1
+Added Pin To Net: NetName=NetSB5_2 Pin=SB5-2
+Added Pin To Net: NetName=NetSB1_1 Pin=SB6-1
+Added Pin To Net: NetName=NetSB6_2 Pin=SB6-2
+Added Pin To Net: NetName=NetSB1_1 Pin=SB7-1
+Added Pin To Net: NetName=NetSB7_2 Pin=SB7-2
+Added Pin To Net: NetName=NetSB8_1 Pin=SB8-1
+Added Pin To Net: NetName=NetSB4_2 Pin=SB8-2
+Added Pin To Net: NetName=NetSB4_2 Pin=SB9-1
+Added Pin To Net: NetName=NetSB5_2 Pin=SB9-2
+Added Pin To Net: NetName=NetSB4_2 Pin=SB10-1
+Added Pin To Net: NetName=NetSB6_2 Pin=SB10-2
+Added Pin To Net: NetName=NetSB4_2 Pin=SB11-1
+Added Pin To Net: NetName=NetSB7_2 Pin=SB11-2
+Added Pin To Net: NetName=NetSB12_1 Pin=SB12-1
+Added Pin To Net: NetName=NetSB5_2 Pin=SB12-2
+Added Pin To Net: NetName=NetSB12_1 Pin=SB13-1
+Added Pin To Net: NetName=NetSB6_2 Pin=SB13-2
+Added Pin To Net: NetName=NetSB12_1 Pin=SB14-1
+Added Pin To Net: NetName=NetSB7_2 Pin=SB14-2
+Added Pin To Net: NetName=NetSB5_2 Pin=SB15-1
+Added Pin To Net: NetName=NetSB15_2 Pin=SB15-2
+Added Pin To Net: NetName=NetSB7_2 Pin=SB16-1
+Added Pin To Net: NetName=NetSB15_2 Pin=SB17-1
+Added Pin To Net: NetName=NetSB2_1 Pin=SB17-2
+Added Pin To Net: NetName=NetR3_1 Pin=U1-1
+Added Pin To Net: NetName=9 Pin=U1-2
+Added Pin To Net: NetName=10 Pin=U1-3
+Added Pin To Net: NetName=11 Pin=U1-4
+Added Pin To Net: NetName=12 Pin=U1-5
+Added Pin To Net: NetName=13 Pin=U1-6
+Added Pin To Net: NetName=NetGB1_2 Pin=U1-8
+Added Pin To Net: NetName=NetR1_1 Pin=U1-9
+Added Pin To Net: NetName=NetHB1_9 Pin=U1-11
+Added Pin To Net: NetName=NetHB1_10 Pin=U1-12
+Added Pin To Net: NetName=NetHB1_11 Pin=U1-13
+Added Pin To Net: NetName=NetHB1_13 Pin=U1-14
+Added Pin To Net: NetName=NetHB1_14 Pin=U1-15
+Added Pin To Net: NetName=NetR5_2 Pin=U1-16
+Added Pin To Net: NetName=NetGB1_2 Pin=U1-19
+Added Pin To Net: NetName=NetGB1_1 Pin=U1-20
+Added Pin To Net: NetName=1 Pin=U1-21
+Added Pin To Net: NetName=2 Pin=U1-22
+Added Pin To Net: NetName=3 Pin=U1-23
+Added Pin To Net: NetName=4 Pin=U1-24
+Added Pin To Net: NetName=5 Pin=U1-25
+Added Pin To Net: NetName=6 Pin=U1-26
+Added Pin To Net: NetName=7 Pin=U1-27
+Added Pin To Net: NetName=8 Pin=U1-28
+Added Pin To Net: NetName=3 Pin=VD1-1
+Added Pin To Net: NetName=NetSB2_1 Pin=VD1-2
+Added Pin To Net: NetName=4 Pin=VD2-1
+Added Pin To Net: NetName=NetSB8_1 Pin=VD2-2
+Added Pin To Net: NetName=5 Pin=VD3-1
+Added Pin To Net: NetName=NetSB7_2 Pin=VD3-2
+Added Pin To Net: NetName=6 Pin=VD4-1
+Added Pin To Net: NetName=NetSB6_2 Pin=VD4-2
+Added Pin To Net: NetName=7 Pin=VD5-1
+Added Pin To Net: NetName=NetSB5_2 Pin=VD5-2
+Added Pin To Net: NetName=8 Pin=VD6-1
+Added Pin To Net: NetName=NetSB1_2 Pin=VD6-2
+Added Pin To Net: NetName=3 Pin=XS1-3
+Added Pin To Net: NetName=4 Pin=XS1-4
+Added Pin To Net: NetName=5 Pin=XS1-5
+Added Pin To Net: NetName=6 Pin=XS1-6
+Added Pin To Net: NetName=7 Pin=XS1-7
+Added Pin To Net: NetName=8 Pin=XS1-8
+Added Pin To Net: NetName=NetSB1_1 Pin=XS2-1
+Added Pin To Net: NetName=NetSB4_2 Pin=XS2-2
+Added Pin To Net: NetName=NetSB12_1 Pin=XS2-3
+Added Pin To Net: NetName=NetSB15_2 Pin=XS2-4
+Added Pin To Net: NetName=1 Pin=XS3-1
+Added Pin To Net: NetName=2 Pin=XS3-2
+Added Pin To Net: NetName=3 Pin=XS3-3
+Added Pin To Net: NetName=4 Pin=XS3-4
+Added Pin To Net: NetName=5 Pin=XS3-5
+Added Pin To Net: NetName=6 Pin=XS3-6
+Added Pin To Net: NetName=7 Pin=XS3-7
+Added Pin To Net: NetName=8 Pin=XS3-8
+Added Pin To Net: NetName=9 Pin=XS4-1
+Added Pin To Net: NetName=10 Pin=XS4-2
+Added Pin To Net: NetName=11 Pin=XS4-3
+Added Pin To Net: NetName=12 Pin=XS4-4
+Added Pin To Net: NetName=13 Pin=XS4-5
+Added Member To Class: ClassName=Schematic Member=Component GB1 4.5v
+Added Member To Class: ClassName=Schematic Member=Component HB1 HY-1602B3
+Added Member To Class: ClassName=Schematic Member=Component R1 3.3K
+Added Member To Class: ClassName=Schematic Member=Component R2 5.1K
+Added Member To Class: ClassName=Schematic Member=Component R3 1K
+Added Member To Class: ClassName=Schematic Member=Component R4 22K
+Added Member To Class: ClassName=Schematic Member=Component R5 100
+Added Member To Class: ClassName=Schematic Member=Component R6 10K
+Added Member To Class: ClassName=Keyboard Schematic Member=Component SB1 "on/off"
+Added Member To Class: ClassName=Keyboard Schematic Member=Component SB2 "/"
+Added Member To Class: ClassName=Keyboard Schematic Member=Component SB3 "*"
+Added Member To Class: ClassName=Keyboard Schematic Member=Component SB4 "-"
+Added Member To Class: ClassName=Keyboard Schematic Member=Component SB5 "7"
+Added Member To Class: ClassName=Keyboard Schematic Member=Component SB6 "8"
+Added Member To Class: ClassName=Keyboard Schematic Member=Component SB7 "9"
+Added Member To Class: ClassName=Keyboard Schematic Member=Component SB8 "+"
+Added Member To Class: ClassName=Keyboard Schematic Member=Component SB9 "4"
+Added Member To Class: ClassName=Keyboard Schematic Member=Component SB10 "5"
+Added Member To Class: ClassName=Keyboard Schematic Member=Component SB11 "6"
+Added Member To Class: ClassName=Keyboard Schematic Member=Component SB12 "1"
+Added Member To Class: ClassName=Keyboard Schematic Member=Component SB13 "2"
+Added Member To Class: ClassName=Keyboard Schematic Member=Component SB14 "3"
+Added Member To Class: ClassName=Keyboard Schematic Member=Component SB15 "0"
+Added Member To Class: ClassName=Keyboard Schematic Member=Component SB16 "."
+Added Member To Class: ClassName=Keyboard Schematic Member=Component SB17 "="
+Added Member To Class: ClassName=Schematic Member=Component U1 PIC16F873
+Added Member To Class: ClassName=Keyboard Schematic Member=Component VD1 Diode
+Added Member To Class: ClassName=Keyboard Schematic Member=Component VD2 Diode
+Added Member To Class: ClassName=Keyboard Schematic Member=Component VD3 Diode
+Added Member To Class: ClassName=Keyboard Schematic Member=Component VD4 Diode
+Added Member To Class: ClassName=Keyboard Schematic Member=Component VD5 Diode
+Added Member To Class: ClassName=Keyboard Schematic Member=Component VD6 Diode
+Added Member To Class: ClassName=Keyboard Schematic Member=Component XS1 PORT8
+Added Member To Class: ClassName=Keyboard Schematic Member=Component XS2 PORT6
+Added Member To Class: ClassName=Schematic Member=Component XS3 PORT8
+Added Member To Class: ClassName=Schematic Member=Component XS4 PORT6
+Added Room: Name=Keyboard Schematic
+Added Room: Name=Schematic
